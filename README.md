@@ -44,3 +44,4 @@ anyThing();
 ```
 
 # 4. Function
+<a href="./4_Functions">Link to TS files to learn</a>
