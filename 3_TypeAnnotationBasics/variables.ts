@@ -16,3 +16,9 @@ let tvShow = "Hello Google";
 tvShow = "Goodbye Google";
 tvShow = false; // It informs the error as the tvShow variable was first assign to string, thus has the string type
 
+// The Any type: It allows the item to be anything
+let anyThing: any = "hello";
+anyThing = 12;
+anyThing = true;
+anyThing();
+
