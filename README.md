@@ -35,3 +35,12 @@ tvShow = false; // It informs the error as the tvShow variable was first assign 
 ```
 
 ## The Any Type
+```typescript
+// The Any type: It allows the item to be anything
+let anyThing: any = "hello";
+anyThing = 12;
+anyThing = true;
+anyThing();
+```
+
+# 4. Function
